@@ -1,5 +1,5 @@
 packages:
   - name: stels
     actions:
-      - name: stels
+      - name: main
         runtime: 'python:default'
