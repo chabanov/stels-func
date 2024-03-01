@@ -174,8 +174,8 @@ def main():
                 )
 
             session_core.client.close()
-            target += 10
-            time.sleep(2.2)
+            target += 5
+            time.sleep(5.2)
 
         except Exception as e:
             print(f"Ошибка: {e}")
