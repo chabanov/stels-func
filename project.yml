@@ -1,0 +1,5 @@
+packages:
+  - name: stels
+    actions:
+      - name: stels
+        runtime: 'python:default'
